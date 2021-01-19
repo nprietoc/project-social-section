@@ -1,0 +1,35 @@
+.principal{
+    font-family: 'Spartan', sans-serif;
+    display: grid;
+    grid-template-columns: 1700px 2000px;
+    margin: 200px 950px;    
+}
+
+.titulo{
+    padding: 30px;
+   
+}
+
+h1{
+    font-size: 150px;
+    color: hsl(300, 43%, 22%);
+}
+
+.texto{
+    color: hsl(300, 43%, 22%);
+    font-size: 50px;
+    padding: 30px;
+}
+
+.cuadros-stars{
+    color: hsl(300, 43%, 22%);
+    padding: 50px;
+    font-size: 50px;
+    margin: 150px;
+    
+}
+
+h2{
+    
+}
+
